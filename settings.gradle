@@ -1,0 +1,7 @@
+pluginManagement { repositories { google(); mavenCentral(); gradlePluginPortal() } }
+dependencyResolutionManagement { repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS); repositories { google(); mavenCentral() } }
+rootProject.name = "BrainstormBrawl"
+include ':app'
+Online Browser & Browser Sandbox – Browserling
+New to Browserling? Launch real online browsers in seconds for web testing, cybersecurity, and more. Test websites and open URLs safely in isolated browser sandboxes.
+ 
